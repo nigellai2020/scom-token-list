@@ -1,6 +1,6 @@
 {
     "name": "@scom/scom-token-list",
-    "type": "widget",
+    "type": "sdk",
     "version": "0.1.12",
     "dependencies": [
         "@ijstech/eth-contract",
